@@ -39,7 +39,7 @@ Insight model membantu tim underwriting untuk mengidentifikasi nasabah berisiko 
    * Deteksi dan penanganan missing values, encoding variabel kategorik, scaling numerik, outlier, dan imbalanced data (undersampling).
 2. **Feature Engineering**
 
-   * Binning umur, credit amount, duration; pembuatan fitur interaksi.
+   * Binning umur, credit amount, duration;
 3. **Modeling**
 
    * Baseline: Logistic Regression & Random Forest (class\_weight & pipeline).
