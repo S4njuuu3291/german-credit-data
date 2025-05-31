@@ -1,0 +1,201 @@
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,age_bin,credit_bin,duration_bin
+36,male,2,own,rich,moderate,1913,18,business,"(35, 40]",very low,13-24
+34,male,3,own,little,moderate,1860,12,car,"(30, 35]",very low,<=12
+48,male,2,own,little,little,1024,24,radio/TV,"(40, 50]",very low,13-24
+31,male,2,own,little,little,3104,18,business,"(30, 35]",low,13-24
+23,male,1,own,quite rich,moderate,2520,27,radio/TV,"(18, 25]",low,25–36
+23,male,2,own,little,moderate,882,13,radio/TV,"(18, 25]",very low,13-24
+37,female,2,own,little,moderate,3612,18,furniture/equipment,"(35, 40]",low,13-24
+23,female,0,rent,quite rich,little,1352,6,car,"(18, 25]",very low,<=12
+28,male,1,rent,little,moderate,6260,18,car,"(25, 30]",mid,13-24
+40,female,2,own,rich,moderate,1322,11,car,"(35, 40]",very low,<=12
+39,male,2,own,quite rich,Unknown,2299,36,radio/TV,"(35, 40]",low,25–36
+43,male,2,rent,little,little,4843,12,car,"(40, 50]",low,<=12
+42,male,1,own,little,Unknown,1544,4,radio/TV,"(40, 50]",very low,<=12
+21,female,2,rent,little,Unknown,2570,27,car,"(18, 25]",low,25–36
+24,female,2,rent,little,little,2124,18,furniture/equipment,"(18, 25]",low,13-24
+74,male,1,own,little,Unknown,3448,5,business,"(60, 100]",low,<=12
+68,male,0,free,little,moderate,1175,16,car,"(60, 100]",very low,13-24
+57,female,1,own,moderate,Unknown,1154,11,radio/TV,"(50, 60]",very low,<=12
+38,male,2,own,little,Unknown,5954,30,radio/TV,"(35, 40]",mid,25–36
+37,male,2,free,Unknown,Unknown,2279,12,radio/TV,"(35, 40]",low,<=12
+54,male,2,own,Unknown,Unknown,2255,24,car,"(50, 60]",low,13-24
+28,male,2,own,little,Unknown,3595,36,radio/TV,"(25, 30]",low,25–36
+42,male,3,own,little,Unknown,2292,12,business,"(40, 50]",low,<=12
+23,female,1,rent,little,little,3234,24,furniture/equipment,"(18, 25]",low,13-24
+48,female,1,rent,little,moderate,1795,18,radio/TV,"(40, 50]",very low,13-24
+67,female,2,own,little,moderate,3872,18,repairs,"(60, 100]",low,13-24
+34,male,1,own,Unknown,Unknown,1898,6,radio/TV,"(30, 35]",very low,<=12
+29,female,2,own,little,rich,683,6,radio/TV,"(25, 30]",very low,<=12
+47,male,2,free,little,Unknown,5103,24,radio/TV,"(40, 50]",mid,13-24
+29,female,3,own,little,Unknown,1412,12,business,"(25, 30]",very low,<=12
+45,male,1,own,quite rich,Unknown,1750,6,radio/TV,"(40, 50]",very low,<=12
+28,male,2,own,little,moderate,1068,6,radio/TV,"(25, 30]",very low,<=12
+24,male,1,rent,little,Unknown,1768,12,furniture/equipment,"(18, 25]",very low,<=12
+23,male,2,own,little,moderate,15672,48,business,"(18, 25]",high,37–48
+31,male,2,own,moderate,Unknown,5742,36,business,"(30, 35]",mid,25–36
+64,male,1,rent,little,little,2384,24,radio/TV,"(60, 100]",low,13-24
+28,male,2,own,little,little,4169,24,furniture/equipment,"(25, 30]",low,13-24
+24,female,2,rent,little,little,4308,48,business,"(18, 25]",low,37–48
+44,male,2,rent,quite rich,little,2647,6,radio/TV,"(40, 50]",low,<=12
+43,male,3,own,little,little,15857,36,vacation/others,"(40, 50]",high,25–36
+29,female,2,own,little,little,3959,15,car,"(25, 30]",low,13-24
+28,male,2,own,little,moderate,3060,48,radio/TV,"(25, 30]",low,37–48
+48,female,1,own,Unknown,moderate,4351,24,furniture/equipment,"(40, 50]",low,13-24
+63,male,3,free,Unknown,Unknown,13756,60,car,"(60, 100]",high,>48
+36,male,2,own,rich,rich,1275,24,business,"(35, 40]",very low,13-24
+42,male,2,own,quite rich,Unknown,522,12,radio/TV,"(40, 50]",very low,<=12
+23,female,2,rent,little,little,1216,18,car,"(18, 25]",very low,13-24
+26,female,1,rent,moderate,moderate,4280,30,business,"(25, 30]",low,25–36
+49,male,1,own,Unknown,little,1262,12,furniture/equipment,"(40, 50]",very low,<=12
+25,male,2,own,Unknown,moderate,1484,12,radio/TV,"(18, 25]",very low,<=12
+53,male,2,own,quite rich,Unknown,2835,24,furniture/equipment,"(50, 60]",low,13-24
+26,female,2,own,little,Unknown,2404,18,radio/TV,"(25, 30]",low,13-24
+75,male,3,free,little,little,6615,24,car,"(60, 100]",mid,13-24
+22,female,2,own,little,moderate,5951,48,radio/TV,"(18, 25]",mid,37–48
+33,female,2,own,little,little,1131,18,furniture/equipment,"(30, 35]",very low,13-24
+51,male,2,free,Unknown,little,7511,18,car,"(50, 60]",mid,13-24
+36,male,3,own,Unknown,Unknown,1238,6,education,"(35, 40]",very low,<=12
+35,male,2,own,Unknown,moderate,2728,15,radio/TV,"(30, 35]",low,13-24
+40,male,3,own,little,moderate,4297,18,furniture/equipment,"(35, 40]",low,13-24
+29,male,2,own,little,little,5179,36,furniture/equipment,"(25, 30]",mid,25–36
+28,female,1,own,little,rich,745,9,radio/TV,"(25, 30]",very low,<=12
+32,male,1,free,little,little,1442,18,car,"(30, 35]",very low,13-24
+24,male,2,rent,moderate,little,6187,30,car,"(18, 25]",mid,25–36
+29,male,3,own,little,moderate,11328,24,vacation/others,"(25, 30]",high,13-24
+26,female,2,own,quite rich,Unknown,1386,12,car,"(25, 30]",very low,<=12
+26,male,2,own,little,rich,1330,12,car,"(25, 30]",very low,<=12
+35,male,2,own,Unknown,Unknown,976,12,radio/TV,"(30, 35]",very low,<=12
+24,female,2,rent,little,Unknown,1554,6,radio/TV,"(18, 25]",very low,<=12
+32,female,3,own,little,moderate,18424,48,vacation/others,"(30, 35]",high,37–48
+30,female,3,own,little,moderate,4795,36,radio/TV,"(25, 30]",low,25–36
+23,male,0,own,Unknown,moderate,14555,6,car,"(18, 25]",high,<=12
+46,female,2,rent,little,little,1845,15,furniture/equipment,"(40, 50]",very low,13-24
+33,male,2,own,little,Unknown,2058,24,repairs,"(30, 35]",low,13-24
+38,male,2,own,Unknown,moderate,754,12,education,"(35, 40]",very low,<=12
+22,female,2,own,little,moderate,1670,9,radio/TV,"(18, 25]",very low,<=12
+36,male,2,own,quite rich,rich,2360,15,car,"(35, 40]",low,13-24
+35,male,0,own,Unknown,moderate,1549,9,car,"(30, 35]",very low,<=12
+22,male,2,own,little,Unknown,1478,9,radio/TV,"(18, 25]",very low,<=12
+30,male,3,own,little,little,1823,24,radio/TV,"(25, 30]",very low,13-24
+33,male,2,own,little,Unknown,2051,18,radio/TV,"(30, 35]",low,13-24
+31,male,2,rent,little,little,2302,36,radio/TV,"(30, 35]",low,25–36
+33,male,2,own,little,Unknown,1478,15,radio/TV,"(30, 35]",very low,13-24
+42,male,3,own,moderate,moderate,8086,36,car,"(40, 50]",mid,25–36
+41,male,2,rent,little,Unknown,1503,12,car,"(40, 50]",very low,<=12
+26,female,2,own,little,Unknown,763,12,furniture/equipment,"(25, 30]",very low,<=12
+27,male,3,own,little,Unknown,6314,24,vacation/others,"(25, 30]",mid,13-24
+26,female,1,own,little,moderate,1113,18,radio/TV,"(25, 30]",very low,13-24
+52,female,1,own,moderate,Unknown,362,6,car,"(50, 60]",very low,<=12
+24,female,1,own,little,little,626,12,radio/TV,"(18, 25]",very low,<=12
+60,male,2,free,little,Unknown,2032,24,car,"(50, 60]",low,13-24
+42,male,2,free,little,moderate,6288,60,education,"(40, 50]",mid,>48
+24,female,2,rent,Unknown,little,1275,15,domestic appliances,"(18, 25]",very low,13-24
+35,male,3,own,little,moderate,1050,6,furniture/equipment,"(30, 35]",very low,<=12
+45,male,2,own,little,Unknown,10875,36,car,"(40, 50]",high,25–36
+24,female,2,own,little,moderate,1237,8,furniture/equipment,"(18, 25]",very low,<=12
+50,male,2,own,little,Unknown,2241,21,furniture/equipment,"(40, 50]",low,13-24
+29,male,2,rent,little,little,11816,45,business,"(25, 30]",high,37–48
+36,male,2,own,little,moderate,3915,27,business,"(35, 40]",low,25–36
+24,female,0,rent,Unknown,moderate,7472,12,car,"(18, 25]",mid,<=12
+49,male,1,own,Unknown,rich,1445,18,radio/TV,"(40, 50]",very low,13-24
+47,male,2,own,Unknown,Unknown,3578,48,radio/TV,"(40, 50]",low,37–48
+23,female,2,rent,little,Unknown,2146,10,furniture/equipment,"(18, 25]",low,<=12
+40,female,2,own,Unknown,Unknown,894,10,education,"(35, 40]",very low,<=12
+47,male,2,own,little,Unknown,3422,18,furniture/equipment,"(40, 50]",low,13-24
+63,male,2,own,Unknown,Unknown,7596,30,car,"(60, 100]",mid,25–36
+58,female,1,own,little,little,1755,24,vacation/others,"(50, 60]",very low,13-24
+35,male,2,own,Unknown,moderate,3976,21,furniture/equipment,"(30, 35]",low,13-24
+37,male,1,own,little,moderate,2118,9,radio/TV,"(35, 40]",low,<=12
+37,male,2,own,little,rich,1225,10,domestic appliances,"(35, 40]",very low,<=12
+31,male,2,own,little,Unknown,2775,18,car,"(30, 35]",low,13-24
+44,male,2,free,quite rich,Unknown,10127,48,car,"(40, 50]",high,37–48
+54,male,3,own,rich,Unknown,4591,24,business,"(50, 60]",low,13-24
+28,female,2,own,little,moderate,4221,30,business,"(25, 30]",low,25–36
+64,female,2,own,little,Unknown,1364,10,car,"(60, 100]",very low,<=12
+32,male,3,free,little,Unknown,1505,18,radio/TV,"(30, 35]",very low,13-24
+28,male,2,own,little,little,1108,12,repairs,"(25, 30]",very low,<=12
+21,male,2,rent,moderate,moderate,3031,45,radio/TV,"(18, 25]",low,37–48
+47,male,2,free,little,Unknown,1984,18,furniture/equipment,"(40, 50]",very low,13-24
+29,female,3,own,little,Unknown,2679,24,car,"(25, 30]",low,13-24
+50,female,1,own,little,rich,1047,6,education,"(40, 50]",very low,<=12
+51,male,2,free,little,rich,2892,24,furniture/equipment,"(50, 60]",low,13-24
+29,female,2,own,little,little,3499,12,car,"(25, 30]",low,<=12
+27,male,3,own,little,little,3416,27,radio/TV,"(25, 30]",low,25–36
+37,male,2,own,Unknown,Unknown,10222,48,radio/TV,"(35, 40]",high,37–48
+25,male,2,own,little,rich,5152,24,radio/TV,"(18, 25]",mid,13-24
+26,male,1,own,little,moderate,590,6,radio/TV,"(25, 30]",very low,<=12
+24,male,2,own,little,Unknown,1800,18,radio/TV,"(18, 25]",very low,13-24
+27,male,2,own,little,moderate,3652,21,business,"(25, 30]",low,13-24
+23,female,0,rent,quite rich,moderate,3758,24,radio/TV,"(18, 25]",low,13-24
+29,male,2,free,little,little,2149,12,radio/TV,"(25, 30]",low,<=12
+30,female,2,own,little,Unknown,8133,36,car,"(25, 30]",mid,25–36
+43,male,2,own,Unknown,moderate,2899,18,car,"(40, 50]",low,13-24
+32,male,2,rent,moderate,moderate,11760,39,education,"(30, 35]",high,37–48
+23,female,2,rent,Unknown,little,1200,12,education,"(18, 25]",very low,<=12
+40,male,3,own,Unknown,little,1358,24,vacation/others,"(35, 40]",very low,13-24
+23,female,1,own,little,little,976,18,car,"(18, 25]",very low,13-24
+32,male,2,rent,quite rich,Unknown,3062,24,furniture/equipment,"(30, 35]",low,13-24
+54,male,2,free,little,Unknown,1597,24,education,"(50, 60]",very low,13-24
+24,female,2,own,little,little,4272,20,furniture/equipment,"(18, 25]",low,13-24
+21,male,1,own,little,little,1289,12,furniture/equipment,"(18, 25]",very low,<=12
+63,male,2,own,little,little,2924,24,car,"(60, 100]",low,13-24
+26,female,3,own,little,Unknown,10974,36,furniture/equipment,"(25, 30]",high,25–36
+36,male,3,own,little,Unknown,3275,21,car,"(35, 40]",low,13-24
+43,male,3,own,little,little,2442,27,business,"(40, 50]",low,25–36
+25,female,1,own,moderate,moderate,2631,15,repairs,"(18, 25]",low,13-24
+26,male,2,own,little,little,759,12,car,"(25, 30]",very low,<=12
+61,male,1,own,little,Unknown,1255,12,car,"(60, 100]",very low,<=12
+23,female,2,own,moderate,Unknown,3488,24,car,"(18, 25]",low,13-24
+41,male,3,own,Unknown,Unknown,6313,24,car,"(40, 50]",mid,13-24
+47,male,3,own,little,moderate,1209,6,car,"(40, 50]",very low,<=12
+31,male,1,own,little,Unknown,1546,10,car,"(30, 35]",very low,<=12
+38,male,3,own,Unknown,Unknown,2859,12,car,"(35, 40]",low,<=12
+26,male,1,own,little,moderate,625,12,radio/TV,"(25, 30]",very low,<=12
+29,male,2,own,little,moderate,1103,12,radio/TV,"(25, 30]",very low,<=12
+23,female,2,rent,little,little,2511,15,car,"(18, 25]",low,13-24
+32,male,2,own,little,moderate,6078,12,car,"(30, 35]",mid,<=12
+40,male,3,own,little,little,3857,30,car,"(35, 40]",low,25–36
+37,male,3,own,quite rich,Unknown,12749,48,radio/TV,"(35, 40]",high,37–48
+57,female,1,free,little,Unknown,2748,12,education,"(50, 60]",low,<=12
+60,male,1,own,little,little,1199,24,car,"(50, 60]",very low,13-24
+37,female,2,rent,little,little,7685,48,business,"(35, 40]",mid,37–48
+33,female,2,own,little,Unknown,2831,30,radio/TV,"(30, 35]",low,25–36
+23,male,2,free,little,little,1845,45,radio/TV,"(18, 25]",very low,37–48
+63,male,2,own,Unknown,Unknown,1520,15,furniture/equipment,"(60, 100]",very low,13-24
+21,female,2,own,moderate,Unknown,10144,60,radio/TV,"(18, 25]",high,>48
+39,male,1,own,Unknown,Unknown,9436,54,car,"(35, 40]",mid,>48
+23,female,1,own,little,moderate,2101,13,radio/TV,"(18, 25]",low,13-24
+28,male,2,rent,little,little,6199,12,radio/TV,"(25, 30]",mid,<=12
+40,male,1,own,Unknown,little,1647,21,car,"(35, 40]",very low,13-24
+45,male,1,own,Unknown,Unknown,1287,10,car,"(40, 50]",very low,<=12
+37,male,2,free,Unknown,moderate,12389,36,car,"(35, 40]",high,25–36
+25,male,2,own,Unknown,Unknown,3105,24,radio/TV,"(18, 25]",low,13-24
+20,female,2,own,rich,moderate,1577,11,furniture/equipment,"(18, 25]",very low,<=12
+49,male,1,own,little,Unknown,2096,12,education,"(40, 50]",low,<=12
+34,male,2,own,little,moderate,2415,7,radio/TV,"(30, 35]",low,<=12
+30,male,3,own,little,little,3959,36,furniture/equipment,"(25, 30]",low,25–36
+27,male,2,own,rich,Unknown,5804,24,car,"(25, 30]",mid,13-24
+31,male,3,rent,little,Unknown,1963,12,radio/TV,"(30, 35]",very low,<=12
+50,male,2,free,little,moderate,6224,48,education,"(40, 50]",mid,37–48
+56,male,2,free,little,rich,4796,42,car,"(50, 60]",low,37–48
+20,female,2,rent,Unknown,Unknown,4675,12,car,"(18, 25]",low,<=12
+55,female,2,own,little,little,1603,24,radio/TV,"(50, 60]",very low,13-24
+40,male,3,rent,little,rich,1905,15,education,"(35, 40]",very low,13-24
+22,male,2,free,little,little,3149,24,furniture/equipment,"(18, 25]",low,13-24
+23,male,1,rent,Unknown,little,1936,18,radio/TV,"(18, 25]",very low,13-24
+68,male,3,own,little,little,14896,6,car,"(60, 100]",high,<=12
+24,male,2,own,moderate,moderate,5595,72,radio/TV,"(18, 25]",mid,>48
+41,female,1,own,rich,Unknown,250,6,car,"(40, 50]",very low,<=12
+59,male,2,own,little,little,1364,9,radio/TV,"(50, 60]",very low,<=12
+41,male,2,own,Unknown,Unknown,3160,21,radio/TV,"(40, 50]",low,13-24
+26,female,2,own,little,Unknown,3181,24,radio/TV,"(25, 30]",low,13-24
+23,male,1,own,little,moderate,1246,24,car,"(18, 25]",very low,13-24
+48,male,1,rent,little,little,2241,10,car,"(40, 50]",low,<=12
+27,male,1,own,little,Unknown,937,24,education,"(25, 30]",very low,13-24
+61,female,2,own,Unknown,Unknown,2012,12,education,"(60, 100]",low,<=12
+53,male,2,free,little,little,7119,48,furniture/equipment,"(50, 60]",mid,37–48
+42,male,2,own,Unknown,moderate,2427,18,business,"(40, 50]",low,13-24
+25,male,2,own,little,Unknown,1262,12,radio/TV,"(18, 25]",very low,<=12
+31,male,2,own,Unknown,little,6350,30,furniture/equipment,"(30, 35]",mid,25–36
+34,male,3,own,moderate,Unknown,1591,21,furniture/equipment,"(30, 35]",very low,13-24
