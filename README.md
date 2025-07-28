@@ -19,7 +19,33 @@ Insight model membantu tim underwriting untuk mengidentifikasi nasabah berisiko 
   - _Binary classification_: Memprediksi apakah nasabah termasuk kategori **"good"** (tidak gagal bayar) atau **"bad"** (berpotensi gagal bayar).
   - _Use-case_: Mendukung proses approval, risk-based pricing, dan mitigasi dengan lebih targeted.
 
----
+## Dashboard Prediksi
+
+### Cek live dashboard prediksi di sini:
+
+[🔗 https://credit-data-sanz.streamlit.app/](https://credit-data-sanz.streamlit.app/)
+
+#### **Instruksi Penggunaan**
+
+1. **Input Data Nasabah:**
+
+   - Masukkan data calon nasabah secara manual pada sidebar (Umur, Jenis Kelamin, Jumlah Kredit, dsb).
+
+2. **Klik Prediksi:**
+
+   - Setelah semua data diisi, klik tombol **Prediksi Risiko Kredit**.
+
+3. **Hasil Prediksi:**
+
+   - Dashboard akan menampilkan:
+
+     - Probabilitas gagal bayar (score ML)
+     - Segmen risiko (Low/Medium/High)
+     - Prediksi (Good/Bad)
+     - Rincian input
+     - Fitur paling penting (feature importance)
+
+![Dashboard](image.png)
 
 ## Dataset
 
@@ -69,7 +95,7 @@ Insight model membantu tim underwriting untuk mengidentifikasi nasabah berisiko 
 ## Hasil Utama
 
 - **Model terbaik:** Random Forest (tuned)
-- **F1-score (test set):** 0.6400 (threshold optimal 0.50)
+- **F1-score (test set):** 0.662 (threshold optimal 0.54)
 - **Top 3 fitur terpenting:**
 
   1. `Checking account` (khususnya Unknown & little)
